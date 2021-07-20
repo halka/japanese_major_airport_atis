@@ -1,4 +1,4 @@
-FROM ruby
+FROM ruby:3.0.2
 ADD . /app
 WORKDIR /app
 RUN bundle install
