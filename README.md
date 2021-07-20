@@ -4,11 +4,9 @@ Using SDK of LINE Messaging API.
 source -> [Japan Sky Way](https://jswpgis.atsri.jp/j-skyway/)
 
 ## Bot ID and QR Code
-@571sfiwe
+Feel free to add your friend! -> @571sfiwe or Read QR Code
+![@571sfiwe](/misc/571sfiwe.png)
 
-Feel free to add your friend!
-
-[![@571sfiwe](/misc/571sfiwe.png)]
 ## Supported Airports
  - New Chitose / RJCC
  - Hakodate / RJCH
