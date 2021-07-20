@@ -31,3 +31,8 @@ Feel free to add your friend! -> @571sfiwe or Read QR Code
  - Kagoshima / RJFK
  - Naha / ROAH
  - Ishigaki / ROIG
+
+## DEMO
+Multiple Input Supported!
+
+![demo](/misc/demo.gif)
