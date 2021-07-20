@@ -1,0 +1,10 @@
+version: '1.0'
+services:
+  web:
+    image: web
+    ports:
+      - 443:443
+    depends_on:
+      - app
+  app:
+    image: app:latest
