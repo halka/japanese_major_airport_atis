@@ -1,4 +1,4 @@
-# Get Japanese major airports ATIS from LINE!
+# Get Japanese major airports ATIS on LINE!
 Using SDK of LINE Messaging API.
 
 source -> [Japan Sky Way](https://jswpgis.atsri.jp/j-skyway/)
