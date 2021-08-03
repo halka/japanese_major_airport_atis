@@ -1,3 +1,0 @@
-FROM nginx
-
-ADD ./metar.conf /etc/nginx/conf.d/metar.conf
