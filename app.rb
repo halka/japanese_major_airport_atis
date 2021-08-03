@@ -20,7 +20,7 @@ def get_atis
   $atis = JSON.parse(res.body)
 end
 
-post '/metar/callback' do
+post '/callback' do
   body = request.body.read
 
   signature = request.env['HTTP_X_LINE_SIGNATURE']
